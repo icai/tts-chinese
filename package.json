@@ -1,0 +1,26 @@
+{
+  "name": "tts-chinese",
+  "version": "1.0.0",
+  "description": "tts chinese all pinyin collections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/icai/tts-chinese.git"
+  },
+  "keywords": [
+    "tts",
+    "chinese"
+  ],
+  "author": "Terry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icai/tts-chinese/issues"
+  },
+  "homepage": "https://github.com/icai/tts-chinese#readme",
+  "dependencies": {
+    "download": "^7.1.0"
+  }
+}
