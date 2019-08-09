@@ -14,7 +14,7 @@ node index.js
 
 ```
 
-https://raw.githubusercontent.com/icai/tts-chinese/master/${item}.mp3
+https://raw.githubusercontent.com/icai/tts-chinese/master/dist/${item}.mp3
 
 
 ```
